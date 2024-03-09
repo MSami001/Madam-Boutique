@@ -1,0 +1,238 @@
+.intro {
+    height: 20rem;
+    align-items: end;
+    background-image: url(../../assets/Banners/khaddi.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 928px) {
+    .intro {
+        height: 12rem;
+    }
+}
+
+.k-f1 {
+    background-image: url(../../assets/Khaadi/K1.webp);
+}
+
+.k-b1 {
+    background-image: url(../../assets/Khaadi/K1.1.webp);
+}
+
+.k-f2 {
+    background-image: url(../../assets/Khaadi/K2.webp);
+}
+
+.k-b2 {
+    background-image: url(../../assets/Khaadi/K2.1.webp);
+}
+
+.k-f3 {
+    background-image: url(../../assets/Khaadi/K3.webp);
+}
+
+.k-b3 {
+    background-image: url(../../assets/Khaadi/K3.2.webp);
+}
+
+.k-f4 {
+    background-image: url(../../assets/Khaadi/K4.webp);
+}
+
+.k-b4 {
+    background-image: url(../../assets/Khaadi/K4.1.webp);
+}
+
+.k-f5 {
+    background-image: url(../../assets/Khaadi/K5.webp);
+}
+
+.k-b5 {
+    background-image: url(../../assets/Khaadi/K5.1.webp);
+}
+
+.k-f6 {
+    background-image: url(../../assets/Khaadi/K6.webp);
+}
+
+.k-b6 {
+    background-image: url(../../assets/Khaadi/K6.1.webp);
+}
+
+.k-f7 {
+    background-image: url(../../assets/Khaadi/K7.webp);
+}
+
+.k-b7 {
+    background-image: url(../../assets/Khaadi/K7.1.webp);
+}
+
+.k-f8 {
+    background-image: url(../../assets/Khaadi/K8.webp);
+}
+
+.k-b8 {
+    background-image: url(../../assets/Khaadi/K8.1.webp);
+}
+
+.k-f9 {
+    background-image: url(../../assets/Khaadi/K9.webp);
+}
+
+.k-b9 {
+    background-image: url(../../assets/Khaadi/K9.1.webp);
+}
+
+.k-f10 {
+    background-image: url(../../assets/Khaadi/K10.webp);
+}
+
+.k-b10 {
+    background-image: url(../../assets/Khaadi/K10.1.webp);
+}
+
+.k-f11 {
+    background-image: url(../../assets/Khaadi/K11.webp);
+}
+
+.k-b11 {
+    background-image: url(../../assets/Khaadi/K11.1.webp);
+}
+
+.k-f12 {
+    background-image: url(../../assets/Khaadi/K12.webp);
+}
+
+.k-b12 {
+    background-image: url(../../assets/Khaadi/K12.2.webp);
+}
+
+.k-f13 {
+    background-image: url(../../assets/Khaadi/K13.webp);
+}
+
+.k-b13 {
+    background-image: url(../../assets/Khaadi/K13.1.webp);
+}
+
+.k-f14 {
+    background-image: url(../../assets/Khaadi/K14.webp);
+}
+
+.k-b14 {
+    background-image: url(../../assets/Khaadi/K14.1.webp);
+}
+
+.k-f15 {
+    background-image: url(../../assets/Khaadi/K15.webp);
+}
+
+.k-b15 {
+    background-image: url(../../assets/Khaadi/K15.1.webp);
+}
+
+.k-f16 {
+    background-image: url(../../assets/Khaadi/K16.webp);
+}
+
+.k-b16 {
+    background-image: url(../../assets/Khaadi/K16.2.webp);
+}
+
+.k-f17 {
+    background-image: url(../../assets/Khaadi/K17.webp);
+}
+
+.k-b17 {
+    background-image: url(../../assets/Khaadi/K17.1.webp);
+}
+
+.k-f18 {
+    background-image: url(../../assets/Khaadi/K18.webp);
+}
+
+.k-b18 {
+    background-image: url(../../assets/Khaadi/K18.1.webp);
+}
+
+.k-f19 {
+    background-image: url(../../assets/Khaadi/K19.webp);
+}
+
+.k-b19 {
+    background-image: url(../../assets/Khaadi/K19.1.webp);
+}
+
+.k-f20 {
+    background-image: url(../../assets/Khaadi/K20.webp);
+}
+
+.k-b20 {
+    background-image: url(../../assets/Khaadi/K20.1.webp);
+}
+
+.k-f21 {
+    background-image: url(../../assets/Khaadi/K21.webp);
+}
+
+.k-b21 {
+    background-image: url(../../assets/Khaadi/K21.1.webp);
+}
+
+.k-f22 {
+    background-image: url(../../assets/Khaadi/K22.webp);
+}
+
+.k-b22 {
+    background-image: url(../../assets/Khaadi/K22.1.webp);
+}
+
+.k-f23 {
+    background-image: url(../../assets/Khaadi/K23.webp);
+}
+
+.k-b23 {
+    background-image: url(../../assets/Khaadi/K23.1.webp);
+}
+
+.k-f24 {
+    background-image: url(../../assets/Khaadi/K24.webp);
+}
+
+.k-b24 {
+    background-image: url(../../assets/Khaadi/K24.1.webp);
+}
+
+.k-f25 {
+    background-image: url(../../assets/Khaadi/K25.webp);
+}
+
+.k-b25 {
+    background-image: url(../../assets/Khaadi/K25.1.webp);
+}
+
+.k-f26 {
+    background-image: url(../../assets/Khaadi/K26.webp);
+}
+
+.k-b26 {
+    background-image: url(../../assets/Khaadi/K26.1.webp);
+}
+
+.k-f27 {
+    background-image: url(../../assets/Khaadi/K27.webp);
+}
+
+.k-b27 {
+    background-image: url(../../assets/Khaadi/K27.1.webp);
+}
+
+.k-f28 {
+    background-image: url(../../assets/Khaadi/K28.webp);
+}
+
+.k-b28 {
+    background-image: url(../../assets/Khaadi/K28.1.webp);
+}

@@ -1,0 +1,24 @@
+.intro{
+    height: 20rem;
+    align-items: end;
+    background-image: url(../assets/Banners/cart-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.intro h1{
+    font-size: 6rem;
+    text-shadow: 5px 5px red;
+}
+@media screen and (max-width: 928px) {
+    .intro{
+        height: 12rem;
+    }
+    .intro h1 {
+      font-size: 4rem;
+    }
+}
+
+.cart-box{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

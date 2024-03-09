@@ -1,0 +1,183 @@
+.intro {
+    height: 20rem;
+    align-items: end;
+    background-image: url(../../assets/Banners/bonanza.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 928px) {
+    .intro {
+        height: 12rem;
+    }
+}
+
+.b-f1{
+    background-image: url(../../assets/Bonanza/B1.webp);
+}
+.b-b1{
+    background-image: url(../../assets/Bonanza/B1.1.webp);
+}
+.b-f2{
+    background-image: url(../../assets/Bonanza/B2.webp);
+}
+.b-b2{
+    background-image: url(../../assets/Bonanza/B2.1.webp);
+}
+.b-f3{
+    background-image: url(../../assets/Bonanza/B3.webp);
+}
+.b-b3{
+    background-image: url(../../assets/Bonanza/B3.2.webp);
+}
+.b-f4{
+    background-image: url(../../assets/Bonanza/B4.webp);
+}
+.b-b4{
+    background-image: url(../../assets/Bonanza/B4.1.webp);
+}
+.b-f5{
+    background-image: url(../../assets/Bonanza/B5.webp);
+}
+.b-b5{
+    background-image: url(../../assets/Bonanza/B5.1.webp);
+}
+.b-f6{
+    background-image: url(../../assets/Bonanza/B6.webp);
+}
+.b-b6{
+    background-image: url(../../assets/Bonanza/B6.1.webp);
+}
+.b-f7{
+    background-image: url(../../assets/Bonanza/B7.webp);
+}
+.b-b7{
+    background-image: url(../../assets/Bonanza/B7.1.webp);
+}
+.b-f8{
+    background-image: url(../../assets/Bonanza/B8.webp);
+}
+.b-b8{
+    background-image: url(../../assets/Bonanza/B8.1.webp);
+}
+.b-f9{
+    background-image: url(../../assets/Bonanza/B9.webp);
+}
+.b-b9{
+    background-image: url(../../assets/Bonanza/B9.1.webp);
+}
+.b-f10{
+    background-image: url(../../assets/Bonanza/B10.webp);
+}
+.b-b10{
+    background-image: url(../../assets/Bonanza/B10.1.webp);
+}
+.b-f11{
+    background-image: url(../../assets/Bonanza/B11.webp);
+}
+.b-b11{
+    background-image: url(../../assets/Bonanza/B11.1.webp);
+}
+.b-f12{
+    background-image: url(../../assets/Bonanza/B12.webp);
+}
+.b-b12{
+    background-image: url(../../assets/Bonanza/B12.2.webp);
+}
+.b-f13{
+    background-image: url(../../assets/Bonanza/B13.webp);
+}
+.b-b13{
+    background-image: url(../../assets/Bonanza/B13.1.webp);
+}
+.b-f14{
+    background-image: url(../../assets/Bonanza/B14.webp);
+}
+.b-b14{
+    background-image: url(../../assets/Bonanza/B14.1.webp);
+}
+.b-f15{
+    background-image: url(../../assets/Bonanza/B15.webp);
+}
+.b-b15{
+    background-image: url(../../assets/Bonanza/B15.1.webp);
+}
+.b-f16{
+    background-image: url(../../assets/Bonanza/B16.webp);
+}
+.b-b16{
+    background-image: url(../../assets/Bonanza/B16.2.webp);
+}
+.b-f17{
+    background-image: url(../../assets/Bonanza/B17.webp);
+}
+.b-b17{
+    background-image: url(../../assets/Bonanza/B17.1.webp);
+}
+.b-f18{
+    background-image: url(../../assets/Bonanza/B18.webp);
+}
+.b-b18{
+    background-image: url(../../assets/Bonanza/B18.1.webp);
+}
+.b-f19{
+    background-image: url(../../assets/Bonanza/B19.webp);
+}
+.b-b19{
+    background-image: url(../../assets/Bonanza/B19.1.webp);
+}
+.b-f20{
+    background-image: url(../../assets/Bonanza/B20.webp);
+}
+.b-b20{
+    background-image: url(../../assets/Bonanza/B20.1.webp);
+}
+.b-f21{
+    background-image: url(../../assets/Bonanza/B21.webp);
+}
+.b-b21{
+    background-image: url(../../assets/Bonanza/B21.1.webp);
+}
+.b-f22{
+    background-image: url(../../assets/Bonanza/B22.webp);
+}
+.b-b22{
+    background-image: url(../../assets/Bonanza/B22.2.webp);
+}
+.b-f23{
+    background-image: url(../../assets/Bonanza/B23.jpg);
+}
+.b-b23{
+    background-image: url(../../assets/Bonanza/B23.1.webp);
+}
+.b-f24{
+    background-image: url(../../assets/Bonanza/B24.jpg);
+}
+.b-b24{
+    background-image: url(../../assets/Bonanza/B24.1.webp);
+}
+.b-f25{
+    background-image: url(../../assets/Bonanza/B25.webp);
+}
+.b-b25{
+    background-image: url(../../assets/Bonanza/B25.1.webp);
+}
+.b-f26{
+    background-image: url(../../assets/Bonanza/B26.webp);
+}
+.b-b26{
+    background-image: url(../../assets/Bonanza/B26.1.webp);
+}
+.b-f27{
+    background-image: url(../../assets/Bonanza/B27.webp);
+}
+.b-b27{
+    background-image: url(../../assets/Bonanza/B27.1.webp);
+}
+.b-f28{
+    background-image: url(../../assets/Bonanza/B28.webp);
+}
+.b-b28{
+    background-image: url(../../assets/Bonanza/B28.1.webp);
+}

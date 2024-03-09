@@ -1,0 +1,183 @@
+.intro {
+    height: 20rem;
+    align-items: end;
+    background-image: url(../../assets/Banners/gulahmed.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 928px) {
+    .intro {
+        height: 12rem;
+    }
+}
+
+.g-f1{
+    background-image: url(../../assets/Gulahmed/G1.webp);
+}
+.g-b1{
+    background-image: url(../../assets/Gulahmed/G1.1.webp);
+}
+.g-f2{
+    background-image: url(../../assets/Gulahmed/G2.webp);
+}
+.g-b2{
+    background-image: url(../../assets/Gulahmed/G2.1.webp);
+}
+.g-f3{
+    background-image: url(../../assets/Gulahmed/G3.webp);
+}
+.g-b3{
+    background-image: url(../../assets/Gulahmed/G3.2.webp);
+}
+.g-f4{
+    background-image: url(../../assets/Gulahmed/G4.webp);
+}
+.g-b4{
+    background-image: url(../../assets/Gulahmed/G4.1.webp);
+}
+.g-f5{
+    background-image: url(../../assets/Gulahmed/G5.webp);
+}
+.g-b5{
+    background-image: url(../../assets/Gulahmed/G5.1.webp);
+}
+.g-f6{
+    background-image: url(../../assets/Gulahmed/G6.webp);
+}
+.g-b6{
+    background-image: url(../../assets/Gulahmed/G6.1.webp);
+}
+.g-f7{
+    background-image: url(../../assets/Gulahmed/G7.webp);
+}
+.g-b7{
+    background-image: url(../../assets/Gulahmed/G7.1.webp);
+}
+.g-f8{
+    background-image: url(../../assets/Gulahmed/G8.webp);
+}
+.g-b8{
+    background-image: url(../../assets/Gulahmed/G8.1.webp);
+}
+.g-f9{
+    background-image: url(../../assets/Gulahmed/G9.webp);
+}
+.g-b9{
+    background-image: url(../../assets/Gulahmed/G9.1.webp);
+}
+.g-f10{
+    background-image: url(../../assets/Gulahmed/G10.webp);
+}
+.g-b10{
+    background-image: url(../../assets/Gulahmed/G10.1.webp);
+}
+.g-f11{
+    background-image: url(../../assets/Gulahmed/G11.webp);
+}
+.g-b11{
+    background-image: url(../../assets/Gulahmed/G11.1.webp);
+}
+.g-f12{
+    background-image: url(../../assets/Gulahmed/G12.webp);
+}
+.g-b12{
+    background-image: url(../../assets/Gulahmed/G12.2.webp);
+}
+.g-f13{
+    background-image: url(../../assets/Gulahmed/G13.webp);
+}
+.g-b13{
+    background-image: url(../../assets/Gulahmed/G13.1.webp);
+}
+.g-f14{
+    background-image: url(../../assets/Gulahmed/G14.webp);
+}
+.g-b14{
+    background-image: url(../../assets/Gulahmed/G14.1.webp);
+}
+.g-f15{
+    background-image: url(../../assets/Gulahmed/G15.webp);
+}
+.g-b15{
+    background-image: url(../../assets/Gulahmed/G15.1.webp);
+}
+.g-f16{
+    background-image: url(../../assets/Gulahmed/G16.webp);
+}
+.g-b16{
+    background-image: url(../../assets/Gulahmed/G16.2.webp);
+}
+.g-f17{
+    background-image: url(../../assets/Gulahmed/G17.webp);
+}
+.g-b17{
+    background-image: url(../../assets/Gulahmed/G17.1.webp);
+}
+.g-f18{
+    background-image: url(../../assets/Gulahmed/G18.webp);
+}
+.g-b18{
+    background-image: url(../../assets/Gulahmed/G18.1.webp);
+}
+.g-f19{
+    background-image: url(../../assets/Gulahmed/G19.webp);
+}
+.g-b19{
+    background-image: url(../../assets/Gulahmed/G19.1.webp);
+}
+.g-f20{
+    background-image: url(../../assets/Gulahmed/G20.webp);
+}
+.g-b20{
+    background-image: url(../../assets/Gulahmed/G20.1.webp);
+}
+.g-f21{
+    background-image: url(../../assets/Gulahmed/G21.webp);
+}
+.g-b21{
+    background-image: url(../../assets/Gulahmed/G21.1.webp);
+}
+.g-f22{
+    background-image: url(../../assets/Gulahmed/G22.webp);
+}
+.g-b22{
+    background-image: url(../../assets/Gulahmed/G22.1.webp);
+}
+.g-f23{
+    background-image: url(../../assets/Gulahmed/G23.webp);
+}
+.g-b23{
+    background-image: url(../../assets/Gulahmed/G23.1.webp);
+}
+.g-f24{
+    background-image: url(../../assets/Gulahmed/G24.webp);
+}
+.g-b24{
+    background-image: url(../../assets/Gulahmed/G24.1.webp);
+}
+.g-f25{
+    background-image: url(../../assets/Gulahmed/G25.webp);
+}
+.g-b25{
+    background-image: url(../../assets/Gulahmed/G25.1.webp);
+}
+.g-f26{
+    background-image: url(../../assets/Gulahmed/G26.webp);
+}
+.g-b26{
+    background-image: url(../../assets/Gulahmed/G26.1.webp);
+}
+.g-f27{
+    background-image: url(../../assets/Gulahmed/G27.webp);
+}
+.g-b27{
+    background-image: url(../../assets/Gulahmed/G27.1.webp);
+}
+.g-f28{
+    background-image: url(../../assets/Gulahmed/G28.webp);
+}
+.g-b28{
+    background-image: url(../../assets/Gulahmed/G28.1.webp);
+}

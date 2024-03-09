@@ -1,0 +1,183 @@
+.intro {
+    height: 20rem;
+    align-items: end;
+    background-image: url(../../assets/Banners/sanasafinas.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 928px) {
+    .intro {
+        height: 12rem;
+    }
+}
+
+.s-f1{
+    background-image: url(../../assets/Sanasafinaz/S1.webp);
+}
+.s-b1{
+    background-image: url(../../assets/Sanasafinaz/S1.1.webp);
+}
+.s-f2{
+    background-image: url(../../assets/Sanasafinaz/S2.webp);
+}
+.s-b2{
+    background-image: url(../../assets/Sanasafinaz/S2.1.webp);
+}
+.s-f3{
+    background-image: url(../../assets/Sanasafinaz/S3.webp);
+}
+.s-b3{
+    background-image: url(../../assets/Sanasafinaz/S3.2.webp);
+}
+.s-f4{
+    background-image: url(../../assets/Sanasafinaz/S4.webp);
+}
+.s-b4{
+    background-image: url(../../assets/Sanasafinaz/S4.1.webp);
+}
+.s-f5{
+    background-image: url(../../assets/Sanasafinaz/S5.webp);
+}
+.s-b5{
+    background-image: url(../../assets/Sanasafinaz/S5.1.webp);
+}
+.s-f6{
+    background-image: url(../../assets/Sanasafinaz/S6.webp);
+}
+.s-b6{
+    background-image: url(../../assets/Sanasafinaz/S6.1.webp);
+}
+.s-f7{
+    background-image: url(../../assets/Sanasafinaz/S7.webp);
+}
+.s-b7{
+    background-image: url(../../assets/Sanasafinaz/S7.1.webp);
+}
+.s-f8{
+    background-image: url(../../assets/Sanasafinaz/S8.webp);
+}
+.s-b8{
+    background-image: url(../../assets/Sanasafinaz/S8.1.webp);
+}
+.s-f9{
+    background-image: url(../../assets/Sanasafinaz/S9.webp);
+}
+.s-b9{
+    background-image: url(../../assets/Sanasafinaz/S9.1.webp);
+}
+.s-f10{
+    background-image: url(../../assets/Sanasafinaz/S10.webp);
+}
+.s-b10{
+    background-image: url(../../assets/Sanasafinaz/S10.1.webp);
+}
+.s-f11{
+    background-image: url(../../assets/Sanasafinaz/S11.webp);
+}
+.s-b11{
+    background-image: url(../../assets/Sanasafinaz/S11.1.webp);
+}
+.s-f12{
+    background-image: url(../../assets/Sanasafinaz/S12.webp);
+}
+.s-b12{
+    background-image: url(../../assets/Sanasafinaz/S12.2.webp);
+}
+.s-f13{
+    background-image: url(../../assets/Sanasafinaz/S13.webp);
+}
+.s-b13{
+    background-image: url(../../assets/Sanasafinaz/S13.1.webp);
+}
+.s-f14{
+    background-image: url(../../assets/Sanasafinaz/S14.webp);
+}
+.s-b14{
+    background-image: url(../../assets/Sanasafinaz/S14.1.webp);
+}
+.s-f15{
+    background-image: url(../../assets/Sanasafinaz/S15.webp);
+}
+.s-b15{
+    background-image: url(../../assets/Sanasafinaz/S15.1.webp);
+}
+.s-f16{
+    background-image: url(../../assets/Sanasafinaz/S16.webp);
+}
+.s-b16{
+    background-image: url(../../assets/Sanasafinaz/S16.2.webp);
+}
+.s-f17{
+    background-image: url(../../assets/Sanasafinaz/S17.webp);
+}
+.s-b17{
+    background-image: url(../../assets/Sanasafinaz/S17.1.webp);
+}
+.s-f18{
+    background-image: url(../../assets/Sanasafinaz/S18.webp);
+}
+.s-b18{
+    background-image: url(../../assets/Sanasafinaz/S18.1.webp);
+}
+.s-f19{
+    background-image: url(../../assets/Sanasafinaz/S19.webp);
+}
+.s-b19{
+    background-image: url(../../assets/Sanasafinaz/S19.1.webp);
+}
+.s-f20{
+    background-image: url(../../assets/Sanasafinaz/S20.webp);
+}
+.s-b20{
+    background-image: url(../../assets/Sanasafinaz/S20.1.webp);
+}
+.s-f21{
+    background-image: url(../../assets/Sanasafinaz/S21.webp);
+}
+.s-b21{
+    background-image: url(../../assets/Sanasafinaz/S21.1.webp);
+}
+.s-f22{
+    background-image: url(../../assets/Sanasafinaz/S22.webp);
+}
+.s-b22{
+    background-image: url(../../assets/Sanasafinaz/S22.1.webp);
+}
+.s-f23{
+    background-image: url(../../assets/Sanasafinaz/S23.webp);
+}
+.s-b23{
+    background-image: url(../../assets/Sanasafinaz/S23.1.webp);
+}
+.s-f24{
+    background-image: url(../../assets/Sanasafinaz/S24.webp);
+}
+.s-b24{
+    background-image: url(../../assets/Sanasafinaz/S24.1.webp);
+}
+.s-f25{
+    background-image: url(../../assets/Sanasafinaz/S25.webp);
+}
+.s-b25{
+    background-image: url(../../assets/Sanasafinaz/S25.1.webp);
+}
+.s-f26{
+    background-image: url(../../assets/Sanasafinaz/S26.webp);
+}
+.s-b26{
+    background-image: url(../../assets/Sanasafinaz/S26.1.webp);
+}
+.s-f27{
+    background-image: url(../../assets/Sanasafinaz/S27.webp);
+}
+.s-b27{
+    background-image: url(../../assets/Sanasafinaz/S27.1.webp);
+}
+.s-f28{
+    background-image: url(../../assets/Sanasafinaz/S28.webp);
+}
+.s-b28{
+    background-image: url(../../assets/Sanasafinaz/S28.1.webp);
+}

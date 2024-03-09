@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- BOOTSTRAP CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- FONT AWESOME CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+        integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/nav.css">
+    <title>MADAM BOUTIQUE</title>
+    <!------------------------------------------------ Favicon ------------------------------------------------->
+    <link rel="icon" type="image/x-icon" href="../assets/ashan-favicon-white.png">
+</head>
+
+<body>
+    <!-- NAVBAR START -->
+    <nav class="bg-warning text-white p-1">
+        <div class="d-flex flex-wrap align-items-center">
+            <div class="d-flex align-items-center">
+                <i class="fa-solid fa-phone ms-4"></i>
+                <p class="m-0 ms-2">+923000000000</p>
+            </div>
+            <div class="d-flex align-items-center">
+                <i class="fa-solid fa-envelope ms-4"></i>
+                <p class="m-0 ms-2">info@madamboutique.com</p>
+            </div>
+        </div>
+    </nav>
+    <header>
+        <div class="containers">
+            <input type="checkbox" name="check" id="check">
+            <div class="logo-container">
+                <img width="150px" src="../assets/logo-white.png" alt="">
+            </div>
+
+            <div class="nav-btn">
+                <div class="nav-links">
+                    <ul>
+                        <li class="nav-link" style="--i: .6s">
+                            <a href="../index.html">Home</a>
+                        </li>
+                        <li class="nav-link" style="--i: .6s">
+                            <a href="gallery.html">Gallery</a>
+                        </li>
+                        <li class="nav-link" style="--i: .6s">
+                            <a href="camparison.html">Comperison</a>
+                        </li>
+                        <li class="nav-link" style="--i: .85s">
+                            <a href="#">Brands<i class="fas fa-caret-down"></i></a>
+                            <div class="dropdown">
+                                <ul>
+                                    <li class="dropdown-link">
+                                        <a href="brands/khaddi.html">Khaddi</a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="brands/limelight.html">Limelight</a>
+                                    </li>
+
+                                    <li class="dropdown-link">
+                                        <a href="brands/sanasafina.html">Sana Safinaz</a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="brands/gulahmed.html">Gul Ahmed</a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="brands/bonanza.html">Bonanza</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-link" style="--i: 1.35s">
+                            <a href="cart.html">Cart</a>
+                        </li>
+                        <li class="nav-link" style="--i: 1.35s">
+                            <a href="about.html">About</a>
+                        </li>
+                        <li class="nav-link" style="--i: 1.35s">
+                            <a href="contact.html">Contact</a>
+                        </li>
+                        <li class="nav-link" style="--i: 1.35s">
+                            <a href="blogs.html">Blogs</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="log-sign" style="--i: 1.8s">
+                    <a href="register.html" class="btn transparent">Register</a>
+                    <!-- <a href="#" class="btn solid">Sign up</a> -->
+                </div>
+            </div>
+
+            <div class="hamburger-menu-container">
+                <div class="hamburger-menu">
+                    <div></div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- NAVBAR END -->
+
+
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-md-4 ps-5">
+                <div id="carouselExampleIndicators" class="carousel carousel-dark slide">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                            class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                            aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                            aria-label="Slide 3"></button>
+                    </div>
+                    <div class="carousel-inner rounded-4"
+                        style="box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;">
+                        <div class="carousel-item active" style="height: 570px;">
+                            <img width="100%" height="100%" id="productImg" src="../assets/Bonanza/B1.webp"
+                                class="d-block w-100" alt="productimg1">
+                        </div>
+                        <div class="carousel-item" style="height: 570px;">
+                            <img width="100%" height="100%" id="productImg2" src="../assets/Bonanza/B1.1.webp"
+                                class="d-block w-100" alt="productimg2">
+                        </div>
+                        <div class="carousel-item" style="height: 570px;">
+                            <img width="100%" height="100%" id="productImg3" src="../assets/Bonanza/B1.2.webp"
+                                class="d-block w-100" alt="productimg3">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+            <div class="col-md-8 d-flex flex-column justify-content-center text-center">
+                <h1 id="name" class="fw-bold mt-3">Khaddi Classical Dress</h1>
+                <div class="d-flex justify-content-center mt-3">
+                    <p>Rating:</p>
+                    <div class="ms-3" style="cursor: pointer;">
+                        <i class="fa-solid fa-star text-warning"></i>
+                        <i class="fa-solid fa-star text-warning"></i>
+                        <i class="fa-solid fa-star text-warning"></i>
+                        <i class="fa-solid fa-star text-warning"></i>
+                        <i class="fa-solid fa-star text-warning"></i>
+                    </div>
+                    <p class="ms-5">Brand:<span id="productbrand" class="text-warning fw-bold ms-2">Khaddi</span></p>
+                </div>
+                <h4>Price:<span id="price" class="text-warning fw-bold ms-2">$230</span></h4>
+                <hr width="400px" class="mx-auto">
+                <div class="mx-auto mt-4">
+                    <p id="details" class="text-center" style="width: 450px;">Experience elegance with the Khaddi
+                        Elegant Dress, adorned in a sophisticated pattern. This
+                        timeless dress seamlessly blends style and comfort. An affordable luxury piece for those who
+                        appreciate both fashion and practicality.</p>
+                </div>
+                <div class="d-flex justify-content-center mt-5">
+                    <h4>Size:</h4>
+                    <div class="ms-3" style="cursor: pointer;">
+                        <span class="border border-black p-2 ps-3 pe-3 size-box">S</span>
+                        <span class="border border-black p-2 ps-3 pe-3 size-box">M</span>
+                        <span class="border border-black p-2 ps-3 pe-3 size-box">L</span>
+                        <span class="border border-black p-2 ps-3 pe-3 size-box">Xl</span>
+                    </div>
+                </div>
+                <div class="">
+                    <a href="cart.html" style="width: 400px; font-size: 20px; padding: 12px"
+                        class="btn btn-dark rounded-2 mt-5">Add to Cart</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Footer Start -->
+    <footer class="text-center text-lg-start text-white mt-5" style="background-color: #000000">
+        <!-- Section: Social media -->
+        <section class="d-flex flex-wrap justify-content-around p-2 border-bottom border-white"
+            style="background-color: #282d31">
+            <div class="d-flex align-items-center">
+                <i style="font-size: 30px;" class="fa-solid fa-truck-fast"></i>
+                <div class="ms-4 mt-3">
+                    <p class="mb-0"><b>FREE SHIPPING & RETURN</b></p>
+                    <p style="font-size: 14px;" class="">Free Nationwide Shipping</p>
+                </div>
+            </div>
+            <div class="d-flex align-items-center">
+                <i style="font-size: 30px;" class="fa-solid fa-coins"></i>
+                <div class="ms-4 mt-3">
+                    <p class="mb-0"><b>MONEY BACK GUARANTEE</b></p>
+                    <p style="font-size: 14px;">30 days money back guarantee</p>
+                </div>
+            </div>
+            <div class="d-flex align-items-center">
+                <i style="font-size: 30px;" class="fa-solid fa-certificate"></i>
+                <div class="ms-4 mt-3">
+                    <p class="mb-0"><b>PREMIUM STITCHING</b></p>
+                    <p style="font-size: 14px;" class="">Clothes with premium stitching</p>
+                </div>
+            </div>
+        </section>
+        <!-- Section: Social media -->
+
+        <!-- Section: Links  -->
+        <section class="">
+            <div class="container text-center text-md-start mt-5">
+                <!-- Grid row -->
+                <div class="row mt-3">
+                    <!-- Grid column -->
+                    <div class="col-md-3 col-lg-4 col-xl-3 align-items-center mx-auto mb-4">
+                        <!-- Content -->
+                        <img width="170px" src="../assets/logo-white.png" alt="">
+                        <p><i class="fas fa-home mr-3 mt-4"></i> 94-C/II, Nazimabad III Karachi, Pakistan</p>
+                        <p><i class="fas fa-phone mr-3"></i> +92 3013239422</p>
+                        <p><i class="fas fa-envelope mr-3"></i> info@madamboutique.com</p>
+                    </div>
+                    <!-- Grid column -->
+
+                    <!-- Grid column -->
+                    <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <!-- Links -->
+                        <h6 class="text-uppercase fw-bold">Useful links</h6>
+                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                            style="width: 60px; background-color: #7c4dff; height: 2px" />
+                        <p>
+                            <a href="../index.html" class="text-white">Home</a>
+                        </p>
+                        <p>
+                            <a href="gallery.html" class="text-white">Gallery</a>
+                        </p>
+                        <p>
+                            <a href="camparison.html" class="text-white">Comparison</a>
+                        </p>
+                        <p>
+                            <a href="about.html" class="text-white">About</a>
+                        </p>
+                        <p>
+                            <a href="contact.html" class="text-white">Contact</a>
+                        </p>
+                    </div>
+                    <!-- Grid column -->
+
+                    <!-- Grid column -->
+                    <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-4">
+                        <!-- Links -->
+                        <h6 class="text-uppercase fw-bold">Newsletter</h6>
+                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                            style="width: 60px; background-color: #7c4dff; height: 2px" />
+                        <div class="d-flex flex-column">
+                            <p style="font-size: 14px;" class="">Enter your email to receive latest updates & news.</p>
+                            <form class="newsletter" action="">
+                                <input type="email" style="width: 18rem;" class="form-control" required>
+                                <input class="btn btn-danger border-0 mt-3 rounded-2" type="submit" onclick="sub()"
+                                    value="Subscribe">
+                            </form>
+                        </div>
+
+                    </div>
+                    <!-- Grid column -->
+
+                    <!-- Grid column -->
+                    <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-md-0 mb-4">
+                        <!-- Links -->
+                        <h6 class="text-uppercase fw-bold">Our Socials</h6>
+                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                            style="width: 60px; background-color: #7c4dff; height: 2px" />
+                        <div class="d-flex justify-content-between">
+                            <a href="https://www.facebook.com/mannat.clothing/" target="_blank" class="text-white">
+                                <i style="font-size: 20px;" class="f-icon fab fa-facebook-f"></i>
+                            </a>
+                            <a href="https://www.pinterest.com/pin/492649951100913/feedback/?invite_code=09570dd65aa04c6bbea43fa0c5f59480&sender_id=592927244599429099"
+                                target="_blank" class="text-white">
+                                <i style="font-size: 20px;" class="f-icon fa-brands fa-pinterest"></i>
+                            </a>
+                            <a href="https://www.instagram.com/mannat_clothing?igshid=YmMyMTA2M2Y%3D" target="_blank"
+                                class="text-white">
+                                <i style="font-size: 20px;" class="f-icon fab fa-instagram"></i>
+                            </a>
+                            <a href="https://www.youtube.com/@mannatclothing" target="_blank" class="text-white">
+                                <i style="font-size: 20px;" class="f-icon fa-brands fa-youtube"></i>
+                            </a>
+                            <a href="https://www.tiktok.com/@mannat_clothing?_t=8aTxbYkiPz0&_r=1" target="_blank"
+                                class="text-white">
+                                <i style="font-size: 20px;" class="f-icon fa-brands fa-tiktok"></i>
+                            </a>
+                        </div>
+                        <p style="font-size: 14px;" class="mt-4">Offical Retail Partner</p>
+                        <img width="160px" src="../assets/partner.png" alt="">
+                    </div>
+                    <!-- Grid column -->
+                </div>
+                <!-- Grid row -->
+            </div>
+        </section>
+        <!-- Section: Links  -->
+
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: #000000">
+            © 2024 Copyright:
+            <a class="text-white">Madam Boutique</a>
+        </div>
+        <!-- Copyright -->
+    </footer>
+    <!-- Footer End -->
+
+    <!-- BOOTSTRAP JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+    <!-- JQUERCY CDN -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/jquery.flexslider.min.js"></script>
+    <!--------------------------------------------- SWEET ALERTS CDN ---------------------------------------------->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="../js/app.js"></script>
+    <script src="../js/products.js"></script>
+    <script src="../js/jquery.scrollUp.min.js"></script>
+    <script>
+        $('.size-box').click(function () {
+            $('.size-box').removeClass('bg-danger');
+            $(this).addClass('bg-danger');
+        })
+
+        // Scrol Up
+
+        $(function () {
+            $.scrollUp(
+                scrollImg = true,
+            );
+        });
+    </script>
+</body>
+
+</html>

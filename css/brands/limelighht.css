@@ -1,0 +1,183 @@
+.intro {
+    height: 20rem;
+    align-items: end;
+    background-image: url(../../assets/Banners/limelight.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 928px) {
+    .intro {
+        height: 12rem;
+    }
+}
+
+.l-f1{
+    background-image: url(../../assets/Limelight/L1.webp);
+}
+.l-b1{
+    background-image: url(../../assets/Limelight/L1.1.webp);
+}
+.l-f2{
+    background-image: url(../../assets/Limelight/L2.webp);
+}
+.l-b2{
+    background-image: url(../../assets/Limelight/L2.1.webp);
+}
+.l-f3{
+    background-image: url(../../assets/Limelight/L3.webp);
+}
+.l-b3{
+    background-image: url(../../assets/Limelight/L3.2.webp);
+}
+.l-f4{
+    background-image: url(../../assets/Limelight/L4.webp);
+}
+.l-b4{
+    background-image: url(../../assets/Limelight/L4.1.webp);
+}
+.l-f5{
+    background-image: url(../../assets/Limelight/L5.webp);
+}
+.l-b5{
+    background-image: url(../../assets/Limelight/L5.1.webp);
+}
+.l-f6{
+    background-image: url(../../assets/Limelight/L6.webp);
+}
+.l-b6{
+    background-image: url(../../assets/Limelight/L6.1.webp);
+}
+.l-f7{
+    background-image: url(../../assets/Limelight/L7.webp);
+}
+.l-b7{
+    background-image: url(../../assets/Limelight/L7.1.webp);
+}
+.l-f8{
+    background-image: url(../../assets/Limelight/L8.webp);
+}
+.l-b8{
+    background-image: url(../../assets/Limelight/L8.1.webp);
+}
+.l-f9{
+    background-image: url(../../assets/Limelight/L9.webp);
+}
+.l-b9{
+    background-image: url(../../assets/Limelight/L9.1.webp);
+}
+.l-f10{
+    background-image: url(../../assets/Limelight/L10.webp);
+}
+.l-b10{
+    background-image: url(../../assets/Limelight/L10.1.webp);
+}
+.l-f11{
+    background-image: url(../../assets/Limelight/L11.webp);
+}
+.l-b11{
+    background-image: url(../../assets/Limelight/L11.1.webp);
+}
+.l-f12{
+    background-image: url(../../assets/Limelight/L12.webp);
+}
+.l-b12{
+    background-image: url(../../assets/Limelight/L12.2.webp);
+}
+.l-f13{
+    background-image: url(../../assets/Limelight/L13.jpg);
+}
+.l-b13{
+    background-image: url(../../assets/Limelight/L13.1.jpg);
+}
+.l-f14{
+    background-image: url(../../assets/Limelight/L14.webp);
+}
+.l-b14{
+    background-image: url(../../assets/Limelight/L14.1.webp);
+}
+.l-f15{
+    background-image: url(../../assets/Limelight/L15.webp);
+}
+.l-b15{
+    background-image: url(../../assets/Limelight/L15.1.webp);
+}
+.l-f16{
+    background-image: url(../../assets/Limelight/L16.webp);
+}
+.l-b16{
+    background-image: url(../../assets/Limelight/L16.2.webp);
+}
+.l-f17{
+    background-image: url(../../assets/Limelight/L17.webp);
+}
+.l-b17{
+    background-image: url(../../assets/Limelight/L17.1.webp);
+}
+.l-f18{
+    background-image: url(../../assets/Limelight/L18.webp);
+}
+.l-b18{
+    background-image: url(../../assets/Limelight/L18.1.webp);
+}
+.l-f19{
+    background-image: url(../../assets/Limelight/L19.webp);
+}
+.l-b19{
+    background-image: url(../../assets/Limelight/L19.1.webp);
+}
+.l-f20{
+    background-image: url(../../assets/Limelight/L20.webp);
+}
+.l-b20{
+    background-image: url(../../assets/Limelight/L20.1.webp);
+}
+.l-f21{
+    background-image: url(../../assets/Limelight/L21.webp);
+}
+.l-b21{
+    background-image: url(../../assets/Limelight/L21.1.webp);
+}
+.l-f22{
+    background-image: url(../../assets/Limelight/L22.jpg);
+}
+.l-b22{
+    background-image: url(../../assets/Limelight/L22.1.jpg);
+}
+.l-f23{
+    background-image: url(../../assets/Limelight/L23.jpg);
+}
+.l-b23{
+    background-image: url(../../assets/Limelight/L23.2.jpg);
+}
+.l-f24{
+    background-image: url(../../assets/Limelight/L24.webp);
+}
+.l-b24{
+    background-image: url(../../assets/Limelight/L24.1.webp);
+}
+.l-f25{
+    background-image: url(../../assets/Limelight/L25.webp);
+}
+.l-b25{
+    background-image: url(../../assets/Limelight/L25.1.webp);
+}
+.l-f26{
+    background-image: url(../../assets/Limelight/L26.webp);
+}
+.l-b26{
+    background-image: url(../../assets/Limelight/L26.1.webp);
+}
+.l-f27{
+    background-image: url(../../assets/Limelight/L27.webp);
+}
+.l-b27{
+    background-image: url(../../assets/Limelight/L27.1.webp);
+}
+.l-f28{
+    background-image: url(../../assets/Limelight/L28.webp);
+}
+.l-b28{
+    background-image: url(../../assets/Limelight/L28.1.webp);
+}
